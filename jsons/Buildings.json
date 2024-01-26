@@ -26,7 +26,7 @@
 		"culture": 3,
 		"gold": 3,
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured","[+2 Production, +2 Faith] from [Marble] tiles [in this city]"],
-		"requiredTech": "Philosophy"
+		"requiredTech": "Philosophy",
 	},
 	{
 		"name": "Theodosian Walls",
@@ -40,6 +40,6 @@
 		"faith": 2,
 		"hurryCostModifier": 10,
 		"requiredTech": "Masonry",
-		"uniques": ["[+2]% [Faith] [in all cities]"]
+		"uniques": ["[+2]% [Faith] [in all cities]"],
 	}
 ]
