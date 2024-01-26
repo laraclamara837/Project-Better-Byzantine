@@ -8,6 +8,7 @@
 		"gold": 6,
 		"culture": 6,
 		"happiness": 5,
+		"maintenance": 2,
 		"hurryCostModifier": 150,
 		"isWonder": true,
 		"uniques": ["Gain a free [Temple] [in all city]", "Free [Great Prophet] appears", "Hidden when religion is disabled","Destroyed when the city is captured"],
