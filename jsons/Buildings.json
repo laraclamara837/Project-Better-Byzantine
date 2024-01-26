@@ -1,25 +1,28 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+                "name": "Byzantine Hagia Sophia",
+		"replaces": "Hagia Sophia",
+		"uniqueTo": "Byzantium",
+		"cost": 350,
+		"faith": 6,
+		"gold": 6,
+		"culture": 6,
+		"happiness": 5,
+		"hurryCostModifier": 150,
+		"isWonder": true,
+		"uniques": ["Gain a free [Temple] [in all city]", "Free [Great Prophet] appears", "Hidden when religion is disabled"],
+		"requiredTech": "Theology",
+		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Orthodox Church",
+		"replaces": "Temple",
+		"uniqueTo": "Byzantium",
+		"cost": 120,
+		"hurryCostModifier": 50,
+		"faith": 3,
+		"culture": 3,
+		"uniques": [""],
+		"requiredTech": "Philosophy"
 	}
 ]
