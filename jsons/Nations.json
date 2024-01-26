@@ -7,36 +7,36 @@
 		"preferredVictoryType": "Cultural",
 
                 "startIntroPart1": "Magnificent Empress Theodora, beloved of Byzantium and of Rome, your people salute you! With your beauty and intelligence, you rose up from actress and courtesan to the rank of the most powerful woman in the Roman Empire, as wife of Justinian I. In the late 520's AD, you helped your husband engage in spiritual and legal reforms, promugalting numerous laws to improve women's status and treatment in the empire. You also made of Constantinople the jewel of the Eastern Roman Empire with the restoration and construction of many aqueducts, bridges, and churches, its beauty culminating with the creation of the Hagia Sophia, one of the most splendid pieces of architecture in the world.",
-                "startIntroPart2": "Beautiful Empress,the Byzantine Empire's magnificence is intact in all memories, and ready to reborn as the new jewel of humankind. Will your new empire shine through the ages of history?",
+                "startIntroPart2": "Empress Theodora, you come from nothing to rule the remnants of Rome! With your wit and beauty you captivated the people of Constantinople, and placed your hand upon the great wheel of power. In a time of strife and division, let all be guided by your counsel and set your shining seal upon the land.",
 
                 "declaringWar": "My people demand a better life. You stand in the way of that becoming.",
 		"attacked": "Nobody puts the empress in a corner.",
 		"defeated": "The throne is a glorious sepulchre.",
 		"introduction": "I am Theodora, who came from nothing to the throne on naught but dreams.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings, It was I, Empress Theodora.",
+		"neutralLetsHearIt": ["Go on, Don't Be Shy.","You may begin, Now."],
+		"neutralNo": ["Surely there is more to life than what you offer?","No, Maybe another Chance.","I and My People Refuse."],
+		"neutralYes": ["Lovely. Predictable, but lovely.","I see your's charms work."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Greetings, What Would you Like?",
+		"hateLetsHearIt": ["Silence Is Almost Unacceptable.","You may Speak.","Go on, More People Will Come Not Only you."],
+		"hateNo": ["Shocking. I've heard worse.","That is Not Acceptable.","I beg your pardon?"],
+		"hateYes": ["That'll Work, Perhaps.","That is an Bare Minimum.","Very well... You May Leave."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
+		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, The Byzantine Empire Will Not Forget Your Action.",
+		"tradeRequest": "I have better things to do and more important people with whom to speak, But I Have a Offer To Make.",
 		
 		"outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
+		"uniqueName": "Metanoia",
+		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion","[+2 Culture, +2 Faith] from [Farm] tiles [in all cities]","Double quantity of [Marble] produced","[+6] [Culture] from [Holy Site] tiles [in all cities]","[+30]% Yield from every [Farm]"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
-			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
-			"Patra", "Korinthos"],
+			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+			"Patra", "Korinthos", "Alexandria"],
                 "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
 	}
 ]
