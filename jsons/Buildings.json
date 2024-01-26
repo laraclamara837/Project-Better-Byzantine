@@ -18,11 +18,13 @@
 		"name": "Orthodox Church",
 		"replaces": "Temple",
 		"uniqueTo": "Byzantium",
+		"requiredBuilding": "Shrine",
 		"cost": 120,
 		"hurryCostModifier": 50,
 		"faith": 3,
 		"culture": 3,
-		"uniques": [""],
+		"gold": 3,
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy"
 	}
 ]
