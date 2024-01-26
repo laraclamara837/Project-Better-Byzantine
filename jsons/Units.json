@@ -5,11 +5,13 @@
 		"uniqueTo": "Byzantium",
 		"replaces": "Knight",
 		"movement": 6,
-		"strength": 100,
+		"strength": 55,
 		"cost": 120,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
 ]
