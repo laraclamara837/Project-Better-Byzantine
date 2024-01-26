@@ -25,10 +25,21 @@
 		"faith": 3,
 		"culture": 3,
 		"gold": 3,
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"],
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured","[+2 Production, +2 Faith] from [Marble] tiles [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 	{
-		
+		"name": "Theodosian Walls",
+		"replaces": "Walls",
+		"cost": 30,
+		"uniqueTo": "Byzantium",
+		"cityStrength": 40,
+		"cityHealth": 160,
+		"happiness": 2,
+		"science": 2,
+		"faith": 2,
+		"hurryCostModifier": 10,
+		"requiredTech": "Masonry",
+		"uniques": ["[+2]% [Faith] [in all cities]"]
 	}
 ]
