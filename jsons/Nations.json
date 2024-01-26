@@ -27,8 +27,8 @@
 		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, The Byzantine Empire Will Not Forget Your Action.",
 		"tradeRequest": "I have better things to do and more important people with whom to speak, But I Have a Offer To Make.",
 		
-		"outerColor": [114, 162, 233],
-		"innerColor": [61, 0, 109],
+		"outerColor": [109, 0, 205],
+		"innerColor": [245, 216, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Metanoia",
 		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion","[+2 Culture, +2 Faith] from [Farm] tiles [in all cities]","Double quantity of [Marble] produced","[+6] [Culture] from [Holy Site] tiles [in all cities]","[+30]% Yield from every [Farm]"],
