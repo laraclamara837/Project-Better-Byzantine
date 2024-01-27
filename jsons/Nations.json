@@ -31,7 +31,7 @@
 		"innerColor": [245, 216, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Metanoia",
-		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion","[+2 Culture, +2 Faith] from [Farm] tiles [in all cities]","Double quantity of [Marble] produced","[+6] [Culture] from [Holy Site] Improvement [in all cities]","[+30]% Yield from every [Farm]"],
+		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion","[+2 Culture, +2 Faith] from [Farm] tiles [in all cities]","Double quantity of [Marble] produced","[+6] [Culture] from [Holy Site] Improvement Tiles [in all cities]","[+30]% Yield from every [Farm]"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
