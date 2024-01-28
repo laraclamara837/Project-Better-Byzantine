@@ -41,5 +41,17 @@
 		"hurryCostModifier": 10,
 		"requiredTech": "Masonry",
 		"uniques": ["[+2]% [Faith] [in all cities]"],
+	},
+	{
+		"name": "Hippodrome Maximus",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Byzantium",
+		"cost": 150,
+		"happiness": 5,
+		"culture": 5,
+		"science": 4,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [5] per owned city", ""],
+		"requiredTech": "Horseback Riding"
 	}
 ]
