@@ -47,6 +47,7 @@
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Byzantium",
 		"cost": 150,
+		"hurryCostModifier": 50,
 		"happiness": 5,
 		"culture": 5,
 		"science": 4,
