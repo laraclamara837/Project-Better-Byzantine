@@ -21,12 +21,13 @@
 		"uniqueTo": "Byzantium",
 		"replaces": "Longswordsman",
 		"movement": 4,
-		"strength": 100,
-		"cost": 50,
+		"strength": 110,
+		"cost": 70,
 		"requiredTech": "Steel",
+		"uniques": ["Can move after attacking"],
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Mobility II","Drill III"],
+		"promotions": ["Blitz","Home Sweet Home"],
 		"attackSound": "Metalhit"
 	}
 ]
