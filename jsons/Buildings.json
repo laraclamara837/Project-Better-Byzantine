@@ -53,6 +53,6 @@
 		"science": 4,
 		"isNationalWonder": true,
 		"requiredTech": "Horseback Riding",
-		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [5] per owned city", "[+90]% Production when constructing [Mounted] units [in all cities]", "[all] Newly Trained [Mounted] units start with [50] Experience [in all cities]"],
+		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [5] per owned city", "[+90]% Production when constructing [Mounted] units [in all cities]", "[All] Newly Trained [Mounted] units start with [50] Experience [in all cities]"],
 	}
 ]
