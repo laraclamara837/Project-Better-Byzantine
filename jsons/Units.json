@@ -23,6 +23,7 @@
 		"movement": 4,
 		"strength": 110,
 		"cost": 70,
+		"upgradesTo": "Musketman",
 		"requiredTech": "Steel",
 		"uniques": ["Can move after attacking"],
 		"obsoleteTech": "Gunpowder",
