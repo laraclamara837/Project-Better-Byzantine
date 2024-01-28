@@ -14,5 +14,19 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","Can Spread Religion [3] Times","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Mobility II","Besiege"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Varangian Guard",
+		"unitType": "Sword",
+		"uniqueTo": "Byzantium",
+		"replaces": "Longswordsman",
+		"movement": 4,
+		"strength": 100,
+		"cost": 50,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Mobility II","Drill III"],
+		"attackSound": "Metalhit"
 	}
 ]
