@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Byzantium",
-		"leaderName": "(Golden Age) Theodora",
+		"leaderName": "Theodora II",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 
-                "startIntroPart1": "Magnificent Empress Theodora, beloved of Byzantium and of Rome, your people salute you! With your beauty and intelligence, you rose up from actress and courtesan to the rank of the most powerful woman in the Roman Empire, as wife of Justinian I. In the late 520's AD, you helped your husband engage in spiritual and legal reforms, promugalting numerous laws to improve women's status and treatment in the empire. You also made of Constantinople the jewel of the Eastern Roman Empire with the restoration and construction of many aqueducts, bridges, and churches, its beauty culminating with the creation of the Hagia Sophia, one of the most splendid pieces of architecture in the world.",
-                "startIntroPart2": "Empress Theodora, you come from nothing to rule the remnants of Rome! With your wit and beauty you captivated the people of Constantinople, and placed your hand upon the great wheel of power. In a time of strife and division, let all be guided by your counsel and set your shining seal upon the land.",
+                "startIntroPart1": "Oh, empress theodora, the agusta, and the empress of the romans. Oh theodora, your ancestors was Born from the ararat mountains, and Like mountains you shall not be trembled by Your enemys and With Tac Tics, you shall fool your enemies and makes them bow down before you, Oh Theodora, your husband theophilos destined to die young, for his death was also inevitable, but be strong theodora, be strong and set an example for your son and the future emperor, don't let your enemies underestimate you as an empress regent, because your Intelligence, keenness, and with the imperial regalia, you shall not spare any of them.",
+                "startIntroPart2": "You're alone empress theodora, your husband have meet the inevitable, the power is now upon you, and your underage son. will you show them your capability and create an example for you son? or will you let those power hungry nobles takes and ripped the power away from you? will you theodora... stand the test of time.",
 
                 "declaringWar": "My people demand a better life. You stand in the way of that becoming.",
 		"attacked": "Nobody puts the empress in a corner.",
@@ -30,8 +30,8 @@
 		"outerColor": [109, 0, 205],
 		"innerColor": [245, 216, 0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Metanoia",
-		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion","[+2 Culture, +2 Faith] from [Farm] tiles [in all cities]","Double quantity of [Marble] produced","[+6] [Culture] from every [Holy Site] [Great Improvement] [in all cities]","[+30]% Yield from every [Farm]"],
+		"uniqueName": "7 Ecumenical councils, Iconodulism",
+		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+2 Culture, +2 Faith] from [Farm] tiles [in all cities]","Double quantity of [Marble] produced","","[+30]% Yield from every [Farm]"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
