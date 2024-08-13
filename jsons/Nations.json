@@ -31,7 +31,7 @@
 		"innerColor": [245, 216, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "7 Ecumenical councils, Iconodulism, ",
-		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+20]% Natural religion spread [in all cities]","Allied City-States provide [Gold] equal to [+40]% of what they produce for themselves","[+40]% City-State Influence degradation","Double quantity of [Marble] produced","","[+30]% Yield from every [Farm]"],
+		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+20]% Natural religion spread [in all cities]","Allied City-States provide [Gold] equal to [+40]% of what they produce for themselves","[-50]% City-State Influence degradation","Double quantity of [Marble] produced",""],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
