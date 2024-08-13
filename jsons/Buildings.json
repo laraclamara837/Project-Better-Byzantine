@@ -54,6 +54,7 @@
 		"isNationalWonder": true,
 		"requiredTech": "Horseback Riding",
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [5] per owned city", "[+90]% Production when constructing [Mounted] units [in all cities]", "[All] Newly Trained [Mounted] units start with [50] Experience [in all cities]"],
+	},
 	{
 		"name": "Church of the Holy Apostles",
 		"replaces": "Grand Temple",
@@ -68,5 +69,27 @@
 			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
+	},
+	{
+		"name": "Byzantine Icons",
+		"uniqueTo": "Byzantium",
+		"cost": 50,
+		"culture": 2,
+		"faith": 3,
+		"gold": 2,
+		"uniques": ["Only available <if [Shrine] is constructed [in this city]>", 
+			"Only available <if [Temple] is constructed [in this city]>","Only available <if [Cathedral] is constructed [in this city]>",
+			"Only available <if [Monastery] is constructed [in this city]>","Only available <if [Museum] is constructed [in this city]>","[+30]% Natural religion spread [in this city"],
+		"requiredTech": "Philosophy",
+	},
+	{
+		"name": "Byzantine Frescoes",
+		"uniqueTo": "Byzantium",
+		"cost": 60,
+		"culture": 3,
+		"faith": 3,
+		"gold": 3,
+		"uniques": ["[+30]% Natural religion spread [in this city"],
+		"requiredTech": "Mosanry",
 	}
 ]
