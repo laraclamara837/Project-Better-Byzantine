@@ -10,21 +10,21 @@
                 "startIntroPart2": "You're alone empress theodora, your husband have meet the inevitable, the power is now upon you, and your underage son. will you show them your capability and create an example for you son? or will you let those power hungry nobles takes and ripped the power away from you? will you theodora... stand the test of time.",
 
                 "declaringWar": "My people demand a better life. You stand in the way of that becoming.",
-		"attacked": "Nobody puts the empress in a corner.",
-		"defeated": "The throne is a glorious sepulchre.",
-		"introduction": "I am Theodora, who came from nothing to the throne on naught but dreams.",
+		"attacked": "Since you have reached this conclusion, depart from me.",
+		"defeated": "You may have won now, but i shall resurrect as the lord did and when the right time comes, i'll have both of your eyeballs.",
+		"introduction": "The agusta, and empress of the romans, it was I, empress regent theodora of byzantium.",
 		
-		"neutralHello": "Greetings, It was I, Empress Theodora.",
-		"neutralLetsHearIt": ["Go on, Don't Be Shy.","You may begin, Now."],
+		"neutralHello": "Greetings, my fellow leader.",
+		"neutralLetsHearIt": ["Go on, Don't be shy.","You may begin, now."],
 		"neutralNo": ["Surely there is more to life than what you offer?","No, Maybe another Chance.","I and My People Refuse."],
-		"neutralYes": ["Lovely. Predictable, but lovely.","I see your's charms work."],
+		"neutralYes": ["Lovely. predictable, but lovely.","I see yours charms working upon me."],
 
-		"hateHello": "Greetings, What Would you Like?",
-		"hateLetsHearIt": ["Silence Is Almost Unacceptable.","You may Speak.","Go on, More People Will Come, Not Only you."],
-		"hateNo": ["Shocking. I've heard worse.","That is Not Acceptable.","I beg your pardon?"],
-		"hateYes": ["That'll Work, Perhaps.","That is an Bare Minimum.","Very well... You May Leave."],
+		"hateHello": "Greetings, What things that You Were Able to Offer?",
+		"hateLetsHearIt": ["Silence is almost unacceptable.","You may speak.","Go on, more people will come, not only you."],
+		"hateNo": ["Shocking. i've heard worse.","That is not acceptable.","I beg your pardon?"],
+		"hateYes": ["That'll work, perhaps.","That is an bare minimum.","Very well... You may leave."],
 		
-		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, The Byzantine Empire Will Not Forget Your Action.",
+		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, the byzantine empire shall not forget your actions.",
 		"tradeRequest": "I have better things to do and more important people with whom to speak, But I Have a Offer To Make.",
 		
 		"outerColor": [83, 83, 140],
