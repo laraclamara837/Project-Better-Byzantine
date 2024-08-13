@@ -4,10 +4,10 @@
 		"replaces": "Hagia Sophia",
 		"uniqueTo": "Byzantium",
 		"cost": 350,
-		"faith": 8,
-		"gold": 8,
-		"culture": 8,
-		"happiness": 7,
+		"faith": 9,
+		"gold": 9,
+		"culture": 9,
+		"happiness": 8,
 		"maintenance": 2,
 		"hurryCostModifier": 150,
 		"isWonder": true,
@@ -55,6 +55,18 @@
 		"requiredTech": "Horseback Riding",
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [5] per owned city", "[+90]% Production when constructing [Mounted] units [in all cities]", "[All] Newly Trained [Mounted] units start with [50] Experience [in all cities]"],
 	{
-		
+		"name": "Church of the Holy Apostles",
+		"replaces": "Grand Temple",
+		"uniqueTo": "Byzantium",
+		"cost": 125,
+		"culture": 8,
+		"faith": 8,
+		"gold": 8,
+		"happiness": 5,
+		"maintenance": 1,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [40] per owned city","[3] Free [Missionary] appears",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
 	}
 ]
