@@ -6,7 +6,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
-                "startIntroPart1": "Oh, empress theodora, the agusta, and the empress of the romans. Oh theodora, your ancestors was Born from the ararat mountains, and Like mountains you shall not be trembled by Your enemys and With Tac Tics, you shall fool your enemies and makes them bow down before you, Oh Theodora, your husband theophilos destined to die young, for his death was also inevitable, but be strong theodora, be strong and set an example for your son and the future emperor, don't let your enemies underestimate you as an empress regent, because your Intelligence, keenness, and with the imperial regalia, you shall not spare any of them.",
+                "startIntroPart1": "Oh, empress theodora, the agusta, and the empress of the romans. Oh theodora, your ancestors was Born from the ararat mountains, and Like mountains you shall not be trembled by Your enemys and With Your Wits and Tac Tics, you shall fool your enemies and makes them bow down before you as an empress of the Romans, Oh Theodora, your husband theophilos destined to die before you are, for his death was also inevitable, but be strong theodora, be strong and set an example for your son and the future emperor, don't let your enemies underestimate you as an empress regent. with your Intelligence, keenness, and with the imperial regalia, you shall not spare any of them.",
                 "startIntroPart2": "You're alone empress theodora, your husband have meet the inevitable, the power is now upon you, and your underage son. will you show them your capability and create an example for you son? or will you let those power hungry nobles takes and ripped the power away from you? will you theodora... stand the test of time.",
 
                 "declaringWar": "My people demand a better life. You stand in the way of that becoming.",
@@ -27,8 +27,8 @@
 		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, The Byzantine Empire Will Not Forget Your Action.",
 		"tradeRequest": "I have better things to do and more important people with whom to speak, But I Have a Offer To Make.",
 		
-		"outerColor": [109, 0, 205],
-		"innerColor": [245, 216, 0],
+		"outerColor": [83, 83, 140],
+		"innerColor": [209, 162, 86],
 		"favoredReligion": "Christianity",
 		"uniqueName": "7 Ecumenical councils, Iconodulism, Ti Ipermaho",
 		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+20]% Natural religion spread [in all cities]","Allied City-States provide [Gold] equal to [+40]% of what they produce for themselves","[-50]% City-State Influence degradation","Double quantity of [Marble] produced","Can spend Faith to annex or puppet a City-State that has been your ally for [5] turns"],
