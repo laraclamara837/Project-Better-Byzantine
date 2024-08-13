@@ -13,7 +13,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","Can Spread Religion [3] Times","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Mobility II","Besiege"],
-		"attackSound": "Metalhit",
+		"attackSound": "metalhit",
 	},
 	{
 		"name": "Varangian Guard",
@@ -29,6 +29,6 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"promotions": ["Blitz","Home Sweet Home"],
-		"attackSound": "Metalhit",
+		"attackSound": "metalhit",
 	}
 ]
