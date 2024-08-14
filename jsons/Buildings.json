@@ -56,7 +56,7 @@
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [5] per owned city", "[+90]% Production when constructing [Mounted] units [in all cities]", "[All] Newly Trained [Mounted] units start with [50] Experience [in all cities]"],
 	},
 	{
-		"name": "Church of the Holy Apostles",
+		"name": "Church Of The Holy Apostles",
 		"replaces": "Grand Temple",
 		"uniqueTo": "Byzantium",
 		"cost": 125,
