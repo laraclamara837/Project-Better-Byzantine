@@ -31,7 +31,7 @@
 		"innerColor": [209, 162, 86],
 		"favoredReligion": "Christianity",
 		"uniqueName": "7 Ecumenical councils, Iconodulism, Ti Ipermaho",
-		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+20]% Natural religion spread [in all cities]","Allied City-States provide [Gold] equal to [+40]% of what they produce for themselves","[-50]% City-State Influence degradation","Double quantity of [Marble] produced","Can spend Faith to annex or puppet a City-State that has been your ally for [5] turns"],
+		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+20]% Natural religion spread [in all cities]","Allied City-States provide [Gold] equal to [+40]% of what they produce for themselves","[-50]% City-State Influence degradation","Double quantity of [Marble] produced","Can spend Faith to annex or puppet a City-State that has been your Friend for [5] turns"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
