@@ -73,8 +73,9 @@
 	{
 		"name": "Byzantine Icons",
 		"uniqueTo": "Byzantium",
-		"cost": 50,
-		"culture": 2,
+		"cost": 10,
+		"happiness": 1,
+		"culture": 1,
 		"faith": 4,
 		"gold": 2,
 		"uniques": ["[+35]% Natural religion spread [in this city]"],
