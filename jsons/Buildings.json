@@ -75,11 +75,10 @@
 		"uniqueTo": "Byzantium",
 		"cost": 50,
 		"culture": 2,
-		"faith": 3,
+		"faith": 4,
 		"gold": 2,
 		"uniques": ["Only available <if [Shrine] is constructed [in this city]>", 
-			"Only available <if [Temple] is constructed [in this city]>","Only available <if [Cathedral] is constructed [in this city]>",
-			"Only available <if [Monastery] is constructed [in this city]>","Only available <if [Museum] is constructed [in this city]>","[+30]% Natural religion spread [in this city"],
+			"[+30]% Natural religion spread [in this city]"],
 		"requiredTech": "Philosophy",
 	},
 	{
@@ -89,7 +88,7 @@
 		"culture": 3,
 		"faith": 3,
 		"gold": 3,
-		"uniques": ["[+30]% Natural religion spread [in this city"],
+		"uniques": ["[+30]% Natural religion spread [in this city]"],
 		"requiredTech": "Masonry",
 	}
 ]
