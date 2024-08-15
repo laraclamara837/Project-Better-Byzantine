@@ -39,7 +39,7 @@
 		"faith": 2,
 		"hurryCostModifier": 10,
 		"requiredTech": "Masonry",
-		"uniques": ["[+2]% [Faith] [in all cities]", "Can only be built in the capital"],
+		"uniques": ["[+2]% [Faith] [in all cities]", "Can only be built <in the capital>"],
 	},
 	{
 		"name": "Hippodrome Maximus",
