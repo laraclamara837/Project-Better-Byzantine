@@ -30,7 +30,6 @@
 	},
 	{
 		"name": "Theodosian Walls",
-		"replaces": "Walls",
 		"cost": 30,
 		"uniqueTo": "Byzantium",
 		"cityStrength": 40,
@@ -40,7 +39,7 @@
 		"faith": 2,
 		"hurryCostModifier": 10,
 		"requiredTech": "Masonry",
-		"uniques": ["[+2]% [Faith] [in all cities]"],
+		"uniques": ["[+2]% [Faith] [in all cities]", "Can only be built in the capital"],
 	},
 	{
 		"name": "Hippodrome Maximus",
