@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Byzantium",
-		"leaderName": "Theodora II",
+		"leaderName": "Alexios I",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
-                "startIntroPart1": "Oh, empress theodora, the agusta, and the empress of the romans. Oh theodora, your ancestors was Born from the ararat mountains, and Like mountains you shall not be trembled by Your enemys and With Your Wits and Tac Tics, you shall fool your enemies and makes them bow down before you as an empress of the Romans, Oh Theodora, your husband theophilos destined to die before you are, for his death was also inevitable, but be strong theodora, be strong and set an example for your son and the future emperor, don't let your enemies underestimate you as an empress regent. with your Intelligence, keenness, and with the imperial regalia, you shall not spare any of them.",
-                "startIntroPart2": "You're alone empress theodora, your husband have meet the inevitable, the power is now upon you, and your underage son. will you show them your capability and create an example for you son? or will you let those power hungry nobles takes and ripped the power away from you? will you theodora... stand the test of time.",
+                "startIntroPart1": "Glory to the restorer of Rome, Alexios Komnenos, Emperor of Byzantium! Ascending to the throne of a dying empire, you were beset from all sides by war; facing constant threat from the east by the Turks and from the west by the Normans. However, it was with your adept skill as a military ruler that you were able to pull Byzantium from the brink of destruction, ushering in a restoration of the once fabled Eastern Rome. Under your appeal to the West, you then convoked what would come to be the Crusades, and initiated a centuries long campaign against the encroaching Muslim armies.",
+                "startIntroPart2": "Great Restorer! Byzantium once more hinges upon the aptitude of your leadership and her faith depends upon your fortitude. Can you strengthen the bastions of her ancient cities and restore her armies to their former glory? Can you build a civilization to stand the test of time?",
 
-                "declaringWar": "My people demand a better life. You stand in the way of that becoming.",
-		"attacked": "Since you have reached this conclusion, depart from me.",
-		"defeated": "You may have won now, but i shall resurrect as the lord did and when the right time comes, i'll have both of your eyeballs.",
-		"introduction": "The agusta, and empress of the romans, it was I, empress regent theodora of eastern romans.",
+                "declaringWar": "You have exhausted our patience, prepare for war.",
+		"attacked": "Since you have reached this conclusion, depart from me and never return for you shall not be welcomed any longer to the queen of cities.",
+		"defeated": "I was charged with her protection, and I have failed her. I have failed God. The true spirit of Rome, now, is yours for the taking.",
+		"introduction": "Hail and welcome to the hagia sophia. I am Alexios Komnenos, Emperor of Byzantium. If there isn't much business to be had, allow me to return to my prayers",
 		
 		"neutralHello": "Greetings, my fellow leader.",
 		"neutralLetsHearIt": ["Go on, don't be shy.","You may begin, now."],
