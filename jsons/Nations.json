@@ -13,24 +13,24 @@
 		"attacked": "Since you have reached this conclusion, depart from me and never return for you shall not be welcomed any longer to the queen of cities.",
 		"defeated": "I was charged with her protection, and I have failed her. I have failed God. The true spirit of Rome, now, is yours for the taking.",
 		"introduction": "Hail and welcome to the hagia sophia. I am Alexios Komnenos, Emperor of Byzantium. If there isn't much business to be had, allow me to return to my prayers",
-		
-		"neutralHello": "Greetings, my fellow leader.",
-		"neutralLetsHearIt": ["Go on, don't be shy.","You may begin, now."],
-		"neutralNo": ["Surely there is more to life than what you offer?","No, Maybe another Chance.","I and My People Refuse."],
-		"neutralYes": ["Lovely. predictable, but lovely.","I see yours charms working upon me."],
+	
+		"neutralHello": "Welcome, shall we pray together?",
+		"neutralLetsHearIt": ["You seemed troubled, let's hear it.","Hmm, is there anything you'd like to say?"],
+		"neutralNo": ["Surely there is more eligible offer?","No, perhaps later?","I refuse. Perhaps we could pray together so that we could reach an agreeable deal."],
+		"neutralYes": ["Perfect. you to, possessed a great Σοφία as a ruler.","I must say I was charmed by your determination, I agree."],
 
-		"hateHello": "Greetings, what things that you were able to offer?",
+		"hateHello": "You're brave entering the sacred ground of That is hagia sophia. And finally face me, state your purpose.",
 		"hateLetsHearIt": ["Silence is almost unacceptable.","You may speak.","Go on, more people will come, not only you."],
 		"hateNo": ["Shocking. i've heard worse.","That is not acceptable.","I beg your pardon?"],
 		"hateYes": ["That'll work, perhaps.","That is an bare minimum.","Very well... You may leave."],
 		
-		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, the eastern roman empire shall not forget your actions.",
+		"afterPeace": ".",
 		"tradeRequest": "I have better things to do and more important people with whom to speak, But I Have a Offer To Make.",
 		
 		"outerColor": [83, 83, 140],
 		"innerColor": [209, 162, 86],
-		"favoredReligion": "Christianity",
-		"uniqueName": "7 Ecumenical councils",
+		"favoredReligion": "Eastern Orthodoxy",
+		"uniqueName": "7 Ecumenical Councils. Komnenian Restoration",
 		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
