@@ -12,7 +12,7 @@
                 "declaringWar": "My people demand a better life. You stand in the way of that becoming.",
 		"attacked": "Since you have reached this conclusion, depart from me.",
 		"defeated": "You may have won now, but i shall resurrect as the lord did and when the right time comes, i'll have both of your eyeballs.",
-		"introduction": "The agusta, and empress of the romans, it was I, empress regent theodora of byzantium.",
+		"introduction": "The agusta, and empress of the romans, it was I, empress regent theodora of eastern romans.",
 		
 		"neutralHello": "Greetings, my fellow leader.",
 		"neutralLetsHearIt": ["Go on, don't be shy.","You may begin, now."],
@@ -24,14 +24,14 @@
 		"hateNo": ["Shocking. i've heard worse.","That is not acceptable.","I beg your pardon?"],
 		"hateYes": ["That'll work, perhaps.","That is an bare minimum.","Very well... You may leave."],
 		
-		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, the byzantine empire shall not forget your actions.",
+		"afterPeace": "Look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike, the eastern roman empire shall not forget your actions.",
 		"tradeRequest": "I have better things to do and more important people with whom to speak, But I Have a Offer To Make.",
 		
 		"outerColor": [83, 83, 140],
 		"innerColor": [209, 162, 86],
 		"favoredReligion": "Christianity",
-		"uniqueName": "7 Ecumenical councils, Iconodulism, Ti Ipermaho",
-		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion","[+70]% Natural religion spread [in all cities]","Allied City-States provide [Gold] equal to [+40]% of what they produce for themselves","[-50]% City-State Influence degradation","Influence of all other civilizations with all city-states degrades [+45]% faster","Double quantity of [Marble] produced"],
+		"uniqueName": "7 Ecumenical councils",
+		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
