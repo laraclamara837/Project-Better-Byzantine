@@ -27,7 +27,7 @@
 		"hurryCostModifier": 35,
 		"requiredTech": "Mathematics",
 		"isWonder": true,
-		"uniques": ["Can only be built [in capital]", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured"],
+		"uniques": ["Can only be built [in capital]", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured","[+3 Culture, +1 Gold] "],
 		"quote": "'The city was strongly fortified by these walls, which had been constructed with an extraordinary amount of skill and labor, making the city nearly invulnerable.' - Procopius (6th century byzantine historian)",
 	},
 	{
