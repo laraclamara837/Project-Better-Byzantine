@@ -11,7 +11,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 150,
 		"isWonder": true,
-		"uniques": ["[+40]% Great Person generation [in all cities]", "Gain a free [Temple] [in this city]", "Gain a free [Cathedral] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "Destroyed when the city is captured", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion"],
+		"uniques": ["[+40]% Great Person generation [in all cities]", "Gain a free [Temple] [in this city]", "Gain a free [Cathedral] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "Destroyed when the city is captured", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Theology",
 		"quote": "'And we went into the Greek lands, and we were led into a place where they serve their God, and we did not know where we were, on heaven or on earth; and do not know how to tell about this. All we know is that God lives there with people and their service is better than in any other country. We cannot forget that beauty since each person, if he eats something sweet, will not take something bitter afterwards; so we cannot remain any more in paganism.' - Russian Ambassadors (987), in a report to Prince Vladimir of Kiev."
 	},	
@@ -27,7 +27,7 @@
 		"hurryCostModifier": 35,
 		"requiredTech": "Mathematics",
 		"isWonder": true,
-		"uniques": ["Can only be built [in capital]", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured","[+3 Culture, +1 Gold] "],
+		"uniques": ["Can only be built [in capital]", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"quote": "'The city was strongly fortified by these walls, which had been constructed with an extraordinary amount of skill and labor, making the city nearly invulnerable.' - Procopius (6th century byzantine historian)",
 	},
 	{
@@ -40,7 +40,7 @@
 		"happiness": 3,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
-		"uniques": ["[+1 Happiness] from [Horse] tiles [in this city]", "Free [Chariot Archer] Appears <every [15] turns>"],
+		"uniques": ["[+1 Happiness] from [Horse] tiles [in this city]", "Free [Chariot Archer] Appears <every [15] turns> <before the [Industrial era]>", "Free [Horseman] Appears <every [20] turns> <before the [Industrial era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 	},
 	},
 	{
@@ -54,7 +54,7 @@
 		"happiness": 7,
 		"maintenance": 2,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [40] per owned city","[3] free [Missionary] units appear",
-			"[+70]% Natural religion spread [in all cities]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>"],
+			"[+70]% Natural religion spread [in all cities]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	}
