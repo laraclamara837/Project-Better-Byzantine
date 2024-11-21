@@ -32,7 +32,8 @@
 		"innerColor": [221, 196, 110],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Komnenian Restoration",
-		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","Empire enters a [5]-turn Golden Age <upon declaring war with a major Civilization>","[+50]% Golden Age length <when at war>","[+100]% City [Strength] <during a Golden Age>"],
+		"uniqueText": "",
+		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","Empire enters a [5]-turn Golden Age <upon declaring war with a major Civilization>","[+50]% Golden Age length <when at war>","[+100]% City Strength from defensive buildings <during a Golden Age>"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
