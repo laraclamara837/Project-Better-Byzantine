@@ -4,16 +4,16 @@
 		"replaces": "Hagia Sophia",
 		"uniqueTo": "Byzantium",
 		"cost": 350,
-		"faith": 9,
-		"gold": 9,
-		"culture": 9,
-		"happiness": 8,
+		"faith": 10,
+		"gold": 10,
+		"culture": 11,
+		"happiness": 9,
 		"maintenance": 2,
 		"hurryCostModifier": 150,
 		"isWonder": true,
 		"uniques": ["Gain a free [Temple] [in this city]", "Gain a free [Cathedral] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "Destroyed when the city is captured", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion"],
 		"requiredTech": "Theology",
-		"quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
+		"quote": "'And we went into the Greek lands, and we were led into a place where they serve their God, and we did not know where we were, on heaven or on earth; and do not know how to tell about this. All we know is that God lives there with people and their service is better than in any other country. We cannot forget that beauty since each person, if he eats something sweet, will not take something bitter afterwards; so we cannot remain any more in paganism.' - Russian Ambassadors (987), in a report to Prince Vladimir of Kiev."
 	},
 	{
 		"name": "Byzantine Orthodox Church",
