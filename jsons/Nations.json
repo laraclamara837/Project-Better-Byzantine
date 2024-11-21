@@ -27,8 +27,8 @@
 		"afterPeace": "You lack God on your side, for what kind of demon has whispers it's snares into your ears that you think you could possibly conquer the mighty Theodosian Wall.",
 		"tradeRequest": "We shall send to you all the delights of Anatolia: Myrrh, olive oil, wine, kefalotyri. I hope you have the good taste to appreciate them, but before that we have an offer to make.",
 		
-		"outerColor": [83, 83, 140],
-		"innerColor": [209, 162, 86],
+		"outerColor": [129, 63, 142],
+		"innerColor": [221, 196, 110],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "7 Ecumenical Councils. Komnenian Restoration",
 		"uniques": ["May choose [7] additional belief(s) of any type when [founding] a religion"],
