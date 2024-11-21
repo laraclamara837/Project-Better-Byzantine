@@ -42,7 +42,6 @@
 		"requiredTech": "Construction"
 		"uniques": ["[+1 Happiness] from [Horse] tiles [in this city]", "Free [Chariot Archer] Appears <every [15] turns> <before the [Industrial era]>", "Free [Horseman] Appears <every [20] turns> <before the [Industrial era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 	},
-	},
 	{
 		"name": "Church Of The Holy Apostles",
 		"replaces": "Grand Temple",
