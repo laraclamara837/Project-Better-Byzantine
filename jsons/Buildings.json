@@ -43,6 +43,16 @@
 		"uniques": ["[+1 Happiness] from [Horse] tiles [in this city]", "Free [Chariot Archer] Appears <every [15] turns> <before the [Industrial era]>", "Free [Horseman] Appears <every [20] turns> <before the [Industrial era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 	},
 	{
+		"name": "Hippodrome Maximus",
+		"cost": 125,
+		"happiness": 9,
+		"production": 5,
+		"culture": 5,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
 		"name": "Church Of The Holy Apostles",
 		"replaces": "Grand Temple",
 		"uniqueTo": "Byzantium",
