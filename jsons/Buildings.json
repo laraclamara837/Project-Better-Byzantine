@@ -34,7 +34,7 @@
 		"name": "Hippodrome",
 		"replaces": "Colosseum",
 		"uniqueTo": "Byzantium",
-		"cost": 50,
+		"cost": 40,
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Horses"],
 		"culture": 1,
@@ -54,7 +54,7 @@
 		"production": 5,
 		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "New [Military] units start with [85] Experience [in this city]", "", "Cost increases by [30] per owned city"],
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[+2 Happiness, +1 Production] from [Horse] tiles [in this city]", "New [Military] units start with [85] Experience [in this city]", "Free [Knight] Appears <in this city> <every [5] turns> <before the [Renaissance era]>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
