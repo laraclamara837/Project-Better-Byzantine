@@ -28,7 +28,7 @@
 		"hurryCostModifier": 35,
 		"requiredTech": "Mathematics",
 		"isWonder": true,
-		"uniques": ["Can only be built [in capital]", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Can only be built <in [Capital] cities>", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"quote": "'The city was strongly fortified by these walls, which had been constructed with an extraordinary amount of skill and labor, making the city nearly invulnerable.' - Procopius, De Aedificis (6th century byzantine historian)",
 	},
 	{
@@ -37,12 +37,11 @@
 		"uniqueTo": "Byzantium",
 		"cost": 40,
 		"maintenance": 1,
-		"requiredNearbyImprovedResources": ["Horses"],
 		"culture": 1,
 		"happiness": 3,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
-		"uniques": ["[+1 Happiness] from [Horse] tiles [in this city]", "Free [Chariot Archer] Appears <in this city> <every [15] turns> <before the [Renaissance era]>", "Free [Horseman] Appears <in this city> <every [20] turns> <before the [Renaissance era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Consumes [1] [Horse]", "[+1 Happiness] from [Horse] tiles [in this city]", "Free [Chariot Archer] Appears <in this city> <every [15] turns> <before the [Renaissance era]>", "Free [Horseman] Appears <in this city> <every [20] turns> <before the [Renaissance era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 	},
 	{
 		"name": "Hippodrome Maximus",
@@ -50,12 +49,11 @@
 		"uniqueTo": "Byzantium",
 		"cost": 135,
 		"maintenance": 3,
-		"requiredNearbyImprovedResources": ["Horses"],
 		"happiness": 10,
 		"production": 5,
 		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "[+2 Happiness, +1 Production] from [Horse] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "Free [Knight] Appears <in this city> <every [5] turns> <before the [Renaissance era]>", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "Consumes [1] [Horse]", "[+2 Happiness, +1 Production] from [Horse] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "Free [Knight] Appears <in this city> <every [5] turns> <before the [Renaissance era]>", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
