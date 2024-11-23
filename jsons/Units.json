@@ -9,10 +9,10 @@
 		"rangedStrength": 60,
 		"cost": 56,
 		"requiredTech": "Sailing",
-		"uniques": ["[2] Range", "[2] Sight", "Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
+		"uniques": ["[1] Range", "[2] Sight", "Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
 		"promotions": ["Greek Fire"],
 		"upgradesTo": "Galleass",
-		"obsoleteTech": "Astronomy",
-		"attackSound": "arrow"
+		"obsoleteTech": "Optics",
+		"attackSound": "Burn"
 	}
 ]
