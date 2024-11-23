@@ -26,7 +26,7 @@
 		"science": 7,
 		"faith": 5,
 		"hurryCostModifier": 35,
-		"requiredTech": "Mathematics",
+		"requiredTech": "Engineering",
 		"isWonder": true,
 		"uniques": ["Can only be built <in [Capital] cities>", "Gain a free [Walls] [in this city]", "[+2 Faith] from every [Walls]", "Triggers a global alert upon build start", "Destroyed when the city is captured","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"quote": "'The city was strongly fortified by these walls, which had been constructed with an extraordinary amount of skill and labor, making the city nearly invulnerable.' - Procopius, De Aedificis (6th century byzantine historian)",
