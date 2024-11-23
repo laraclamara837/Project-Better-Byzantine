@@ -13,6 +13,6 @@
 		"promotions": ["Greek Fire"],
 		"upgradesTo": "Galleass",
 		"obsoleteTech": "Optics",
-		"attackSound": "Burn"
+		"attackSound": "Fire"
 	}
 ]
