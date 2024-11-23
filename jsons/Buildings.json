@@ -41,7 +41,7 @@
 		"happiness": 3,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
-		"uniques": ["Consumes [1] [Horses]", "[+1 Happiness] from [Horses] tiles [in this city]", "Free [Chariot Archer] Appears <in this city> <every [15] turns> <before the [Renaissance era]>", "Free [Horseman] Appears <in this city> <every [20] turns> <before the [Renaissance era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Consumes [1] [Horses]", "[+1 Happiness] from [Horses] tiles [in this city]", "[1] free [Cataphract] units appear <before the [Renaissance era]>", "[1] free [Lancer] units appear <starting from the [Renaissance era]>", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 	},
 	{
 		"name": "Hippodrome Maximus",
@@ -53,7 +53,7 @@
 		"production": 5,
 		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "Consumes [1] [Horses]", "[+2 Happiness, +1 Production] from [Horses] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "Free [Knight] Appears <in this city> <every [5] turns> <before the [Renaissance era]>", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "Consumes [1] [Horses]", "[+2 Happiness, +1 Production] from [Horses] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "[3] free [Knight] units appear", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
