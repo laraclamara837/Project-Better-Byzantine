@@ -1,21 +1,5 @@
 [
 	{
-		"name": "Tagma",
-		"unitType": "Mounted",
-		"uniqueTo": "Byzantium",
-		"replaces": "Knight",
-		"movement": 6,
-		"strength": 55,
-		"cost": 120,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","Can Spread Religion [3] Times","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
-		"promotions": ["Mobility II","Besiege"],
-		"attackSound": "metalhit",
-	},
-	{
 		"name": "Dromon",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Byzantium",
