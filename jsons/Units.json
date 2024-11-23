@@ -14,5 +14,33 @@
 		"upgradesTo": "Galleass",
 		"obsoleteTech": "Compass",
 		"attackSound": "Fire"
+	},
+	{
+		"name": "Lanternas",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Byzantium",
+		"replaces": "Galleass",
+		"movement": 4,
+		"strength": 20,
+		"rangedStrength": 30,
+		"cost": 70,
+		"requiredTech": "Optics",
+		"uniques": ["Withdraws before melee combat", "Unit will heal every turn, even if it performs an action <during a Golden Age>", "Cannot enter ocean tiles"],
+		"upgradesTo": "Frigate",
+		"obsoleteTech": "Navigation",
+		"attackSound": "Arrow"
+	},
+	{
+		"name": "Megas Domestikos",
+		"unitType": "Civilian",
+		"uniqueTo": "Byzantium",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            "[+30]% Strength bonus for [Military] units within [4] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat", "Free [Megas Domestikos] appears <upon entering a Golden Age>",
+			"All adjacent units heal [28] HP when healing", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 3
 	}
 ]
