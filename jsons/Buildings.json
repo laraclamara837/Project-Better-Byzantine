@@ -8,10 +8,11 @@
 		"gold": 10,
 		"culture": 11,
 		"happiness": 9,
+		"greatPersonPoints": {"Great Engineer": 1},
 		"maintenance": 3,
 		"hurryCostModifier": 150,
 		"isWonder": true,
-		"uniques": ["[+40]% Great Person generation [in all cities]", "Gain a free [Temple] [in this city]", "Gain a free [Cathedral] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "Destroyed when the city is captured", "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion","[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["[+35]% Great Person generation [in all cities]", "Gain a free [Temple] [in this city]", "Gain a free [Cathedral] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "Destroyed when the city is captured", "All newly-trained [Missionary] units [in all cities] receive the [Devout] promotion", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Theology",
 		"quote": "'And we went into the Greek lands, and we were led into a place where they serve their God, and we did not know where we were, on heaven or on earth; and do not know how to tell about this. All we know is that God lives there with people and their service is better than in any other country. We cannot forget that beauty since each person, if he eats something sweet, will not take something bitter afterwards; so we cannot remain any more in paganism.' - Russian Ambassadors (987), in a report to Prince Vladimir of Kiev."
 	},	
@@ -54,7 +55,7 @@
 		"production": 5,
 		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "[+2 Happiness, +1 Production] from [Horse] tiles [in this city]", "New [Military] units start with [85] Experience [in this city]", "Free [Knight] Appears <in this city> <every [5] turns> <before the [Renaissance era]>", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "[+2 Happiness, +1 Production] from [Horse] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "Free [Knight] Appears <in this city> <every [5] turns> <before the [Renaissance era]>", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
