@@ -21,7 +21,7 @@
 		"uniqueTo": "Byzantium",
 		"replaces": "Galleass",
 		"movement": 4,
-		"strength": 20,
+		"strength": 25,
 		"rangedStrength": 30,
 		"cost": 70,
 		"requiredTech": "Optics",
