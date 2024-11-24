@@ -26,7 +26,7 @@
 		"cost": 70,
 		"requiredTech": "Compass",
 		"uniques": ["Withdraws before melee combat", "Unit will heal every turn, even if it performs an action <during a Golden Age>", "Cannot enter ocean tiles"],
-		"upgradesTo": "Navigation",
+		"upgradesTo": "Frigate",
 		"obsoleteTech": "Navigation",
 		"attackSound": "Arrow"
 	},
