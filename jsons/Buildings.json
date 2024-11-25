@@ -53,7 +53,7 @@
 		"production": 5,
 		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "Consumes [2] [Horses]", "[+2 Happiness, +1 Production] from [Horses] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "[3] free [Knight] units appear", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
+		"uniques": ["Only available <if [Hippodrome] is constructed in all [non-[Puppeted]] cities>", "Consumes [3] [Horses]", "[+2 Happiness, +1 Production] from [Horses] tiles [in all cities]", "New [Military] units start with [85] Experience [in this city]", "[3] free [Knight] units appear", "Cost increases by [30] per owned city", "[+1 Gold, +3 Culture] <after discovering [Flight]>"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
