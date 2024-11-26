@@ -9,7 +9,7 @@
 		"rangedStrength": 60,
 		"cost": 55,
 		"requiredTech": "Optics",
-		"uniques": ["[1] Sight","[1] additional attacks per turn", "Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
+		"uniques": ["[1] Sight", "Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>"],
 		"promotions": ["Greek Fire"],
 		"upgradesTo": "Galleass",
 		"obsoleteTech": "Compass",
