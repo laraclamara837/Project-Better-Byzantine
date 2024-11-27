@@ -13,7 +13,7 @@
 		"promotions": ["Greek Fire"],
 		"upgradesTo": "Galleass",
 		"obsoleteTech": "Compass",
-		"attackSound": "Fire"
+		"attackSound": "Fire",
 	},
 	{
 		"name": "Lanternas",
@@ -28,7 +28,7 @@
 		"uniques": ["Withdraws before melee combat", "Unit will heal every turn, even if it performs an action <during a Golden Age>", "Cannot enter ocean tiles"],
 		"upgradesTo": "Frigate",
 		"obsoleteTech": "Navigation",
-		"attackSound": "Arrow"
+		"attackSound": "Arrow",
 	},
 	{
 		"name": "Megas Domestikos",
@@ -41,6 +41,6 @@
                 "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 		"Can be earned through combat", "Free [Megas Domestikos] appears <upon entering a Golden Age>",
 		"All adjacent units heal [40] HP when healing", "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 3
+		"movement": 3,
 	}
 ]
