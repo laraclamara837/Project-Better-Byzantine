@@ -7,8 +7,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Theodora",
 
-                "startIntroPart1": "Glory to the restorer of Rome, Alexios Komnenos, Emperor of Byzantium! Ascending to the throne of a dying empire, you were beset from all sides by war; facing constant threat from the east by the Turks and from the west by the Normans. However, it was with your adept skill as a military ruler that you were able to pull Byzantium from the brink of destruction, ushering in a restoration of the once fabled Eastern Rome. Under your appeal to the West, you then convoked what would come to be the Crusades, and initiated a centuries long campaign against the encroaching Muslim armies.",
-                "startIntroPart2": "Great Restorer! Byzantium once more hinges upon the aptitude of your leadership and her faith depends upon your fortitude. Can you strengthen the bastions of her ancient cities and restore her armies to their former glory? Can you build a civilization to stand the test of time?",
+                "startIntroPart1": "Magnificent Empress Theodora, beloved of Byzantium and of Rome, your people salute you! With your beauty and intelligence, you rose up from actress and courtesan to the rank of the most powerful woman in the Roman Empire, as wife of Justinian I. In the late 520's AD, you helped your husband engage in spiritual and legal reforms, promugalting numerous laws to improve women's status and treatment in the empire. You also made of Constantinople the jewel of the Eastern Roman Empire with the restoration and construction of many aqueducts, bridges, and churches, its beauty culminating with the creation of the Hagia Sophia, one of the most splendid pieces of architecture in the world.",
+                "startIntroPart2": "Beautiful Empress,the Byzantine Empire's magnificence is intact in all memories, and ready to reborn as the new jewel of humankind. Will your new empire shine through the ages of history?",
 
                 "declaringWar": "You have exhausted our patience. May the lord have mercy on you, may you repented to the true faith. Before it is to late.",
 		"attacked": "Since you have reached this conclusion, depart from me and never return, for you shall not be welcomed any longer to The Queen Of Cities.",
@@ -31,7 +31,7 @@
 		"outerColor": [129, 63, 142],
 		"innerColor": [221, 196, 110],
 		"favoredReligion": "Eastern Orthodoxy",
-		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Komnenian Restoration",
+		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Metanoia",
 		"uniqueText": "May choose [5] additional beliefs of any type when [founding] a religion and May choose [7] additional beliefs of any type when [enhancing] a religion. Empire enters a [5]-turn Golden Age upon declaring war with a major Civilization and [+50]% Golden Age length when at war. [+100]% City Strength from defensive buildings during a Golden Age",
 		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","Empire enters a [5]-turn Golden Age <upon declaring war with a major Civilization>","[+50]% Golden Age length <when at war>","[+100]% City Strength from defensive buildings <during a Golden Age>","Free [Megas Domestikos] appears <upon entering a Golden Age> <hidden from users>"],
 
