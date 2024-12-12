@@ -32,8 +32,7 @@
 		"innerColor": [245, 216, 0],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Taxis. Metanoia",
-		"uniqueText": "May choose [5] additional beliefs of any type when [founding] a religion and May choose [7] additional beliefs of any type when [enhancing] a religion. [+1 Culture, +1 Faith] from every [Holy site] with [1] to [6] neighboring [Farm] or [Pasture] tiles.",
-		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","[+500]% Spread Religion Strength","[+1 Culture, +1 Faith] from every [Holy site] <with [1] to [6] neighboring [Farm] tiles>","[+1 Culture, +1 Faith] from every [Holy site] <with [1] to [6] neighboring [Pasture] tiles>"],
+		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","[+500]% Spread Religion Strength","Comment [+100% Strength for [Mounted] units vs cities following our religion]"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
