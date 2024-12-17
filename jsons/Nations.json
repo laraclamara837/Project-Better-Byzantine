@@ -7,8 +7,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Justinian I",
 
-                "startIntroPart1": "Blessings upon Christ's favoured son, Saint Justinian, Emperor of Byzantium and champion of Rome. Rome had been lost for some two centuries until your ambitious renovatio imperii. Her laws, once the beacon of the civilized world, had too fallen into disrepair. But your great feats of battle would mark Rome's closest restoration, and the great Corpus Juris Civilis would form the basis of Europe's laws for centuries to come. Yours is truly a legacy worthy of the Caesars that came before you.",
-                "startIntroPart2": "Beautiful Empress,the Byzantine Empire's magnificence is intact in all memories, and ready to reborn as the new jewel of humankind. Will your new empire shine through the ages of history?",
+                "startIntroPart1": "Blessings upon Christ's favoured son. All hail the most magnificent, magnanimous, and lustrous Emperor Justinian I, hope of Byzantium and of Rome! From a rank of candidatus and the Emperor personal guard you rise became the Emperor Itself in the Roman Empire. Saint Justinian, Emperor of Byzantium and champion of Rome. Rome had been lost for some two centuries until your ambitious renovatio imperii. Her laws, once the beacon of the civilized world, had too fallen into disrepair. But your great feats of battle would mark Rome's closest restoration, and the great Corpus Juris Civilis would form the basis of Europe's laws for centuries to come. You also aided in the restoration and construction of many aqueducts, bridges and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world. Yours is truly a legacy worthy of the Caesars that came before you.",
+                "startIntroPart2": "Great emperor, the glory of Rome once more awaits your divine government. it is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you restore her fractured lands? Can you bring law to the corners of her empire? Can you build a civilization that will stand the test of time?",
 
                 "declaringWar": "It is always a shame to destroy a thing of beauty. Happily, you are not one.",
 		"attacked": "Now darling, tantrums are most unbecoming. I shall have to teach you a lesson.",
@@ -31,8 +31,8 @@
 		"outerColor": [222, 188, 98],
 		"innerColor": [98, 70, 118],
 		"favoredReligion": "Eastern Orthodoxy",
-		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Taxis. Metanoia",
-		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","[+500]% Spread Religion Strength","Comment [[+100]% Strength <for [Mounted] units> <vs cities following our religion>]"],
+		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Renovatio Imperii",
+		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion","May choose [7] additional belief(s) of any type when [enhancing] a religion","",""],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
