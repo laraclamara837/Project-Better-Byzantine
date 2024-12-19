@@ -21,9 +21,9 @@
 		"neutralYes": ["Of course, my friend.", "Agreed.", "Sure."],
 
 		"hateHello": "?",
-		"hateLetsHearIt": ["Tell me.","What?","let's be fast move on."],
-		"hateNo": ["That's unlikely.","Definitely not.","Excuse me?!."],
-		"hateYes": ["Agreed.","It must be good.","Where am I needed?"],
+		"hateLetsHearIt": ["Is there anything you'd like to say?", "What?", "Huh?"],
+		"hateNo": ["That's unlikely.", "Definitely not.", "Excuse me?!"],
+		"hateYes": ["Agreed.", "It must be good.", "Where am I needed?"],
 		
 		"afterPeace": "I'd say this was so delightful, don't you agree? I must say, winning satisfies me so much.",
 		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
