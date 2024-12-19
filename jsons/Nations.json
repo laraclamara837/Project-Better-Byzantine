@@ -16,16 +16,16 @@
 		"introduction": "Greetings. I am Justinian I, Emperor of Byzantium. Have you come to borrow some of my law books? Or to take part in my arena perhaps? Or shall we stroll the training yards?",
 	
 		"neutralHello": "Greetings.",
-		"neutralLetsHearIt": ["Yes, my friend?", "I'm listening.", "Did you want something?"],
+		"neutralLetsHearIt": ["Please speak your mind.", "I'm listening.", "Did you want something?"],
 		"neutralNo": ["I must decline", "Rome decline your offer.", "Reluctantly, no."],
 		"neutralYes": ["Of course, my friend.", "Agreed.", "Sure."],
 
 		"hateHello": "?",
-		"hateLetsHearIt": ["Is there anything you'd like to say?", "What?", "Huh?"],
-		"hateNo": ["That's unlikely.", "Definitely not.", "Excuse me?!"],
+		"hateLetsHearIt": ["Is there anything you'd like to say?", "What?", "."],
+		"hateNo": ["That's unlikely.", "Definitely not.", "What?!"],
 		"hateYes": ["Agreed.", "It must be good.", "Where am I needed?"],
 		
-		"afterPeace": "I'd say this was so delightful, don't you agree? I must say, winning satisfies me so much.",
+		"afterPeace": "I'd say this was so delightful, don't you agree? I must say, winning satisfies me so muchl.",
 		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
 		
 		"outerColor": [222, 188, 98],
