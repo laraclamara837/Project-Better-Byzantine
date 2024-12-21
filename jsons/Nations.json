@@ -13,7 +13,7 @@
                 "declaringWar": "You simply must understand that you are in the way of a greater Rome. What is about to happened is inevitable.",
 		"attacked": "Now, this is unexpected. But I shall teach you a valuable lesson that shall change you forever. Watch closely at your demise.",
 		"defeated": "My armies may lie defeated, but the fires that inspired me to seek out Rome will not be extinguished.",
-		"introduction": "Greetings. I am Justinian I, Emperor of Byzantium. Have you come to borrow some of my law books? Or to take part in my arena perhaps? Or shall we stroll the training yards?",
+		"introduction": "Greetings. I am Justinian I, Emperor of Byzantium and Rome. Have you come to borrow some of my law books? Or to take part in my arena perhaps? Or shall we stroll the training yards?",
 	
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Please speak your mind.", "I'm listening.", "Did you want something?"],
@@ -22,11 +22,11 @@
 
 		"hateHello": "?",
 		"hateLetsHearIt": ["Is there anything you'd like to say?", "What?", "State your purpose."],
-		"hateNo": ["That's unlikely.", "Surely you have more to offer for rome.", "Shocking. I've heard worse."],
+		"hateNo": ["That's unlikely.", "Surely you have something more to offer for rome.", "Shocking. I've heard worse."],
 		"hateYes": ["I have to Agree.", "Finally, a deal fit for rome.", "If you insist."],
 		
 		"afterPeace": "Safety and peace of the state is the highest law. I hope you could understand that.",
-		"tradeRequest": ".",
+		"tradeRequest": "Rome has an offer to make. I believe this offer will benefit both our empire.",
 		
 		"outerColor": [222, 188, 98],
 		"innerColor": [98, 70, 118],
@@ -38,7 +38,7 @@
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
-			"Patra", "Korinthos", "Alexandria"],
+			"Patra", "Korinthos", "Alexandria", "Ravenna", "Rome"],
                 "spyNames": ["Basil", "Nikephoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"],
 	}
 ]
