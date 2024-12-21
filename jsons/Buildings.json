@@ -15,7 +15,20 @@
 		"uniques": ["[+35]% Great Person generation [in all cities]", "Gain a free [Temple] [in this city]", "Gain a free [Cathedral] [in this city]", "Free [Great Prophet] appears", "Hidden when religion is disabled", "Destroyed when the city is captured", "All newly-trained [Missionary] units [in all cities] receive the [Devout] promotion", "[+1 Gold, +3 Culture] <after discovering [Flight]>","Only available <when religion is enabled>"],
 		"requiredTech": "Theology",
 		"quote": "'And we went into the Greek lands, and we were led into a place where they serve their God, and we did not know where we were, on heaven or on earth; and do not know how to tell about this. All we know is that God lives there with people and their service is better than in any other country. We cannot forget that beauty since each person, if he eats something sweet, will not take something bitter afterwards; so we cannot remain any more in paganism.' - Russian Ambassadors (987), in a report to Prince Vladimir of Kiev."
-	},	
+	},
+	{
+	        "name": "Tetraconch",
+		"replaces": "Temple",
+		"uniqueTo": "Byzantium",
+		"cost": 110,
+		"faith": 2,
+		"gold" 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 30,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+50]% Natural religion spread [in annexed cities]", "Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
 	{
 		"name": "The Theodosian Walls",
 		"cost": 100,
