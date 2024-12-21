@@ -39,8 +39,8 @@
                 "Empire enters a [10]-turn Golden Age <by consuming this unit>",
                 "[+30]% Strength bonus for [Military] units within [4] tiles",
                 "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-		"Can be earned through combat", "Free [Megas Domestikos] appears <upon entering a Golden Age>",
-		"All adjacent units heal [40] HP when healing", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"Can be earned through combat", "All adjacent units heal [40] HP when healing", 
+		"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
 	}
 ]
