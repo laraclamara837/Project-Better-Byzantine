@@ -27,7 +27,7 @@
 		"uniques": ["[+50]% Strength <when adjacent to a [Skoutatos] unit>", "[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
 	},
 	{
 		"name": "Tagma",
@@ -42,7 +42,7 @@
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses", "Iron",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+100]% Strength <vs cities> <when attacking> <in cities following our religion>", "[+30]% Strength <in [Holy] cities>", "[+30]% Spread Religion Strength <in [Holy] cities>", "[+20]% Spread Religion Strength", "Earn [100]% of killed [Wounded] unit's [Strength] as [Faith]", "[+14]% Strength bonus for [All] units within [1] tiles", "Can Spread Religion <[3] times>", "Only available <when religion is enabled>", "Religious Unit"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
 	},
 	{
 		"name": "Megas Domestikos",
