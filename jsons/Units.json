@@ -16,7 +16,18 @@
 		"attackSound": "Fire",
 	},
 	{
-		
+		"name": "Skoutatos",
+		"unitType": "Sword",
+		"uniqueTo": "Byzantium",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 55,
+		"requiredTech": "Civil Service",
+		"uniques": ["", "[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Megas Domestikos",
