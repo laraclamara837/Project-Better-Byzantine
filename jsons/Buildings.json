@@ -22,7 +22,7 @@
 		"uniqueTo": "Byzantium",
 		"cost": 110,
 		"faith": 2,
-		"gold" 2,
+		"gold": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 30,
