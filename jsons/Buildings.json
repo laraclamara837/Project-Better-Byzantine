@@ -23,11 +23,12 @@
 		"cost": 110,
 		"faith": 2,
 		"gold": 2,
+		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy",
-		"uniques": ["Upon capturing a city, receive [5] times its [Culture] production as [Production] immediately", "[+50]% Natural religion spread [in annexed cities]", "Only available <when religion is enabled>", "Destroyed when the city is captured"],
+		"uniques": ["[+2 Production] from every specialist [in all non-occupied cities]", "[+2 Happiness] from every specialist [in annexed cities]", "[+50]% Natural religion spread [in annexed cities]", "Only available <when religion is enabled>", "Destroyed when the city is captured"],
 	},
 	{
 		"name": "The Theodosian Walls",
