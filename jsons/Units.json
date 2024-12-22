@@ -24,7 +24,7 @@
 		"strength": 16,
 		"cost": 55,
 		"requiredTech": "Civil Service",
-		"uniques": ["", "[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <when adjacent to a [Skoutatos] unit>", "[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
