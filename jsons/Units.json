@@ -35,7 +35,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Byzantium",
 		"movement": 4,
-		"strength": 50,
+		"strength": 25,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
