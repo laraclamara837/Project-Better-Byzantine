@@ -28,7 +28,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+2 Production] from every specialist [in all non-occupied cities]", "[+2 Happiness] from every specialist [in annexed cities]", "[+50]% Natural religion spread [in annexed cities]", "[+1 Culture, +1 Production] from [Marble] tiles [in this city]", "Only available <when religion is enabled>", "Destroyed when the city is captured"],
+		"uniques": ["[+2 Production] from every specialist [in all non-occupied cities]", "[+2 Happiness] from every specialist [in annexed cities]", "[+50]% Natural religion spread [in annexed cities]", "[+2 Culture, +2 Production] from [Marble] tiles [in this city]", "Only available <when religion is enabled>", "Destroyed when the city is captured"],
 	},
 	{
 		"name": "The Theodosian Walls",
