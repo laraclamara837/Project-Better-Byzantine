@@ -21,7 +21,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Byzantium",
 		"cost": 110,
-		"faith": 2,
+		"faith": 3,
 		"gold": 2,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Shrine",
