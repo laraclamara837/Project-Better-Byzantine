@@ -28,16 +28,16 @@
 		"afterPeace": "I'd say this was so delightful, don't you agree? I must say, winning satisfies me so much. But listen here, if you try anymore of this nonsense, Rome shall not hesitate...",
 		"tradeRequest": "We send to you a troupe of dancers to re-enact Leda and the Swan. Try not to be too scandalized. I heard nice things from you in your latest sayings...show me.",
 		
-		"outerColor": [222, 188, 98],
-		"innerColor": [98, 70, 118],
+		"outerColor": [55, 0, 101],
+		"innerColor": [246, 216, 1],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "The Pentarchy and 7 Ecumenical Councils.",
-		"UniqueText": "",
-
+		"uniqueText": ".",
+		"uniques": ["Starts with [Theology]", "Starts with [Construction]", "Starts with [Oligarchy] adopted", "May choose [5] additional belief(s) of any type when [founding] a religion", "May choose [7] additional belief(s) of any type when [Enhancing] a religion", ""],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
 			"Patra", "Korinthos", "Alexandria", "Jerusalem"],
-                "spyNames": ["Antonina", "Eirene", "Sophia", "Marina", "Theophano", "Helena", "Zoe", "Ioanno", "Xene", "Euphrosyne"],
+        "spyNames": ["Antonina", "Eirene", "Sophia", "Marina", "Theophano", "Helena", "Zoe", "Ioanno", "Xene", "Euphrosyne"],
 	}
 ]
