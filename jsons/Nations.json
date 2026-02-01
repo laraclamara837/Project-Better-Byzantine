@@ -1,44 +1,43 @@
 [
 	{
 		"name": "Byzantium",
-		"leaderName": "Justinian I",
+		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Justinian I",
+		"personality": "Theodora",
 
-                "startIntroPart1": "Blessings upon Christ's favoured son. All hail the most magnificent, magnanimous, and lustrous Emperor Justinian I, hope of Byzantium and of Rome! From a rank of candidatus and the Emperor personal guard you rise became the Emperor Itself in the Roman Empire. Saint Justinian, Emperor of Byzantium and champion of Rome. Rome had been lost for some two centuries until your ambitious renovatio imperii. Her laws, once the beacon of the civilized world, had too fallen into disrepair. But your great feats of battle would mark Rome's closest restoration, and the great Corpus Juris Civilis would form the basis of Europe's laws for centuries to come. You also aided in the restoration and construction of many aqueducts, bridges and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world. Yours is truly a legacy worthy of the Caesars that came before you.",
-                "startIntroPart2": "Great emperor, the glory of Rome once more awaits your divine government. it is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you restore her fractured lands? Can you bring law to the corners of her empire? Can you build a civilization that will stand the test of time?",
-
-                "declaringWar": "You simply must understand that you are in the way of a greater Rome. What is about to happened is inevitable.",
-		"attacked": "Now, this is unexpected. But I shall teach you a valuable lesson that shall change you forever. Watch closely at your demise.",
-		"defeated": "My armies may lie defeated, but the fires that inspired me to seek out Rome will not be extinguished.",
-		"introduction": "Greetings. I am Justinian I, Emperor of Byzantium and Rome. Have you come to borrow some of my law books? Or to take part in my arena perhaps? Or shall we stroll the training yards?",
-	
-		"neutralHello": "Greetings.",
-		"neutralLetsHearIt": ["Please speak your mind.", "I'm listening.", "Did you want something?"],
-		"neutralNo": ["I must decline", "Rome decline your offer.", "Reluctantly, no."],
-		"neutralYes": ["Rome accept graciously.", "I see Rome's charms work.", "I Agreed."],
-
-		"hateHello": "?",
-		"hateLetsHearIt": ["Is there anything you'd like to say?", "What?", "State your purpose."],
-		"hateNo": ["That's unlikely.", "Surely you have something more to offer for rome.", "Shocking. I've heard worse."],
-		"hateYes": ["I have to Agree.", "Finally, a deal fit for rome.", "If you insist."],
+        "startIntroPart1": "Magnificent Empress Theodora, beloved of Byzantium and of Rome, your people salute you! With your beauty and intelligence, you rose up from actress and courtesan to the rank of the most powerful woman in the Roman Empire, as wife of Justinian I. In the late 520's AD, you helped your husband engage in spiritual and legal reforms, promugalting numerous laws to improve women's status and treatment in the empire. You also made of Constantinople the jewel of the Eastern Roman Empire with the restoration and construction of many aqueducts, bridges, and churches, its beauty culminating with the creation of the Hagia Sophia, one of the most splendid pieces of architecture in the world.",
+        "startIntroPart2": "Empress Theodora, you come from nothing to rule the remnants of Rome! With your wit and beauty you captivated the people of Constantinople, and placed your hand upon the great wheel of power. In a time of strife and division, let all be guided by your counsel and set your shining seal upon the land. Beautiful Empress,the Byzantine Empire's magnificence is intact in all memories, and ready to reborn as the new jewel of humankind. Will your new empire shine through the ages of history?",
 		
-		"afterPeace": "Safety and peace of the state is the highest law. I hope you could understand that.",
-		"tradeRequest": "Rome has an offer to make. I believe this offer will benefit both our empire.",
+        "declaringWar": "My people demand a better life. You stand in the way of that becoming. Just look at yourself. Your people suffer injustices, your friends desert you, and it appears that your tailor is on strike to.",
+		"attacked": "Nobody puts the empress in a corner. Now that riots are needed, we'll teach you a valuable lesson.",
+		"defeated": "The throne is a glorious sepulchre. I hope you knew that to act (and you acted) like that. Just know that in this world nobody will aid a traitor.",
+		"introduction": "I am Theodora, who came from nothing to the throne on naught but dreams.",
+	
+		"neutralHello": "The Empress has arrived.",
+		"neutralLetsHearIt": ["Yes, my freind?", "Shall we hear it?.", "Did you perhaps desire something?"],
+		"neutralNo": ["I must decline", "Rome decline your offer.", "Not even with a horse."],
+		"neutralYes": ["Lovely. Predictable, but lovely.", "I see Rome's charms work.", "Let us show you our empire delights!"],
+
+		"hateHello": "It takes a social climber to recognize a social climber.",
+		"hateLetsHearIt": ["Is there anything you'd like to say?", "Be quick with this. What is it?", "State your purpose."],
+		"hateNo": ["Is this perhaps amusing to you?", "Surely you have something more to offer for Rome.", "Shocking. I've heard worse."],
+		"hateYes": ["I have to Agree.", "Finally, a deal that fits for rome.", "If you insist."],
+		
+		"afterPeace": "I'd say this was so delightful, don't you agree? I must say, winning satisfies me so much. But listen here, if you try anymore of this nonsense, Rome shall not hesitate...",
+		"tradeRequest": "We send to you a troupe of dancers to re-enact Leda and the Swan. Try not to be too scandalized. I heard nice things from you in your latest sayings...show me.",
 		
 		"outerColor": [222, 188, 98],
 		"innerColor": [98, 70, 118],
 		"favoredReligion": "Eastern Orthodoxy",
-		"uniqueName": "The Pentarchy. 7 Ecumenical Councils. Renovatio Imperii",
-		"uniqueText": "Starts with [Construction] and [Theology]. May choose 5 additional beliefs of any type when founding a religion and when enhancing the religion may choose 7 additional beleifs. +60% Production towards any buildings that already exist in the Capital when not at war. +600% Production when constructing All buildings in capital when above 0 Happiness. +40% Production when constructing [Barracks], [Courthouse], and [Temple] buildings in all cities. [Great General] is earned +50% faster in cities with [Barracks], [Courthouse], or [Temple] building.",
-		"uniques": ["Starts with [Construction]", "Starts with [Theology]", "May choose [5] additional belief(s) of any type when [founding] a religion", "May choose [7] additional belief(s) of any type when [enhancing] a religion", "[+60]% Production towards any buildings that already exist in the Capital <when not at war>", "[+600]% Production when constructing [All] buildings [in capital] <when above [5] Happiness>", "[+40]% Production when constructing [Barracks] buildings [in all cities]", "[+40]% Production when constructing [Courthouse] buildings [in all cities]", "[+40]% Production when constructing [Temple] buildings [in all cities]", "[Great General] is earned [+50]% faster <in cities with a [Barracks]>", "[Great General] is earned [+50]% faster <in cities with a [Courthouse]>", "[Great General] is earned [+50]% faster <in cities with a [Temple]>"],
+		"uniqueName": "The Pentarchy and 7 Ecumenical Councils.",
+		"UniqueText": "",
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
 			"Patra", "Korinthos", "Alexandria", "Jerusalem"],
-                "spyNames": ["Basil", "Nikephoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"],
+                "spyNames": ["Antonina", "Eirene", "Sophia", "Marina", "Theophano", "Helena", "Zoe", "Ioanno", "Xene", "Euphrosyne"],
 	}
 ]
