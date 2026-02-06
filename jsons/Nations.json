@@ -33,7 +33,7 @@
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "The Pentarchy and 7 Ecumenical Councils.",
 		"uniqueText": ".",
-		"uniques": ["Starts with [Theology]", "Starts with [Construction]", "Starts with [Oligarchy] adopted", "May choose [5] additional belief(s) of any type when [founding] a religion", "May choose [7] additional belief(s) of any type when [enhancing] a religion", ""],
+		"uniques": ["May choose [5] additional belief(s) of any type when [founding] a religion", "May choose [7] additional belief(s) of any type when [enhancing] a religion", ""],
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
