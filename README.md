@@ -1,4 +1,4 @@
-# Unciv-mod-Better-Byzantine
+# Unciv-mod-Eternal-Constantinople
 
 Rework The Whole Byzantine Civ because of How Pathetic the Original was and Make Byzantine Civ Op, and I took Few Inspiration in Civ 6.
 
